@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#rr{
+ 
+   margin-right: 80vh;
+}
+
+#card{
+  max-width: 300px;
+  margin-top: 22px;
+  margin-left: 22px;
+  box-shadow: 5px 5px 5px  rgb(113, 113, 113)
+}
+
+body{
+  background: linear-gradient(to right, rgb(25, 103, 95), rgb(12, 176, 188))
+}
+
+#ww{
+  color: white;
+}
+
+#pp{
+  color: white;
+}
